@@ -14,6 +14,27 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### File Tree View
+
+```
+dashboard
+├── node_modules
+├── craco.config.js
+├── package.json
+├── package-lock.json
+├── tailwind.config.js
+├── public
+└── src
+    ├── App.css
+    ├── App.js
+    ├── index.css
+    ├── index.js
+    ├── components
+    ├── context
+    ├── data
+    └── pages
+```
+
 ### Dependency Installations
 
 ```
