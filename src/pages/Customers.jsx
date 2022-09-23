@@ -22,12 +22,3 @@ const Customers = () => {
 }
 
 export default Customers
-
-
-const Customers = () => { 
-return ( 
-
-);
-}; 
-export default Customers;
-
