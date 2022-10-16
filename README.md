@@ -1,3 +1,6 @@
+##  About
+React admin dashboard with kanban, charts(such as line chart, pie, sparkline, stacked), user profile, navbar, etc. with using tailwind.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
